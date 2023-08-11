@@ -24,7 +24,7 @@ let numero1 = 12;
 let soma = numero1 + Number("10");
 console.log(soma) // 22
 
-// converta numeo em string para concatenar, valor esperado(112)
+// converta numero em string para concatenar, valor esperado(112)
 let numero3 = 1;
 let numero4 = 12;
 let numeroConcatenado = String(numero3) + String(numero4);
