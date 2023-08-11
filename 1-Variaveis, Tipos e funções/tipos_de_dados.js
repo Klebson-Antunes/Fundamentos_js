@@ -65,3 +65,5 @@ const testeNumero = 2;
 const testeNumero2 = 3;
 console.log(testeNumero === testeNumero2) // FALSE
 console.log(testeNumero !== testeNumero2) // TRUE
+
+
